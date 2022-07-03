@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(184,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(186,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(204,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(206,42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(286,22): warning C4305: =: усечение из "double" в "float"
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(311,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(335,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(435,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(437,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(460,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(462,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(463,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(465,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(473,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(479,32): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(490,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(496,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(631,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(772,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(855,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(884,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1059,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1064,47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1066,46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1073,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1078,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(1080,47): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Nikolay\source\repos\OOP-2\OOP-2\Main.cpp(817): warning C4715: ReadColor: значение возвращается не при всех путях выполнения
+  OOP-2.vcxproj -> C:\Users\Nikolay\source\repos\OOP-2\Debug\OOP-2.exe
